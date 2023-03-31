@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\FAKULTET\SP\SPlab1Priprema\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SPlab1Priprema.vcxproj -> E:\FAKULTET\SP\SPlab1Priprema\x64\Debug\SPlab1Priprema.exe
